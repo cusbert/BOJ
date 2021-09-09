@@ -1,5 +1,3 @@
-package ing;
-
 import java.io.*;
 import java.util.*;
 
